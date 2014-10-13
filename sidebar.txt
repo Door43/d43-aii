@@ -10,6 +10,10 @@
 
   * [[aii:obs|Open Bible Stories (aii)]]
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aii|d43-aii repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aii/archive/master.zip|d43-aii.zip]]
+
 **Recent Changes**
 {{changes>ns = aii}}
 
